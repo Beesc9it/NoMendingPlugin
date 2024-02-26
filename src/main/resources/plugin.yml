@@ -1,0 +1,6 @@
+api-version: 1.19 # Укажите соответствующую версию сервера Minecraft
+name: NoMendingPlugin
+version: 1.0
+description: туда сюда оп оп оп 
+author: Beesc9it
+main: com.example.NoMendingPlugin.NoMendingPlugin
